@@ -1,17 +1,17 @@
 export const data = [
   {
     id: 1,
-    title: "First Item",
+    title: "Feature #1",
     description: "This is the first item",
   },
   {
     id: 2,
-    title: "Second Item",
+    title: "Feature #2",
     description: "This is the second item",
   },
   {
     id: 3,
-    title: "Third Item",
+    title: "Feature #3",
     description: "This is the third item",
   },
 ];
