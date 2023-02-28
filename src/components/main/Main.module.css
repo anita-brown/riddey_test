@@ -5,9 +5,16 @@
     gap: 3rem;
     align-items: center;
     text-align: center;
-    height: 100vh;
+    /* height: 100vh; */
     padding-top: 1.2rem;
 
+  
+    /* @media screen and (max-width: 480px) {
+gap: 1rem;
+    } */
+
+        
+    
 
 }
 
