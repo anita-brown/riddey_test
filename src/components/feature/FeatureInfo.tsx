@@ -1,4 +1,4 @@
-import styles from "./Feature.module.scss";
+import styles from "./Feature.module.css";
 import { data } from "../../data";
 import icon from "../../assets/images/icon.svg";
 

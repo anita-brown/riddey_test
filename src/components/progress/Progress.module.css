@@ -1,0 +1,33 @@
+.progress_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.counter_text {
+    color: #E26559
+}
+.button {
+    width: 100%;
+    padding: 1rem 2rem;
+    border: none;
+    color: #ffff;
+    background-color: #E26559;
+    font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+cursor: pointer;
+  transition-duration: 200ms;
+
+}
+.button:hover {
+    background-color: #B55147;
+}
+.button:active {
+    background-color: #883D35;
+}
+
+.disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
